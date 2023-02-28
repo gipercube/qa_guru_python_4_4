@@ -1,0 +1,14 @@
+/.idea
+__pycache__/
+
+# Environments
+.env
+.venv
+env/
+../qa_guru_python_4_4/venv/
+ENV/
+env.bak/
+venv.bak/
+
+*.py[cod]
+*$py.class
